@@ -1,0 +1,173 @@
+.leftcol {
+    background-color:  #ffffff;
+    height: '100% 100%';
+    background-size: cover;
+}
+.rightcol {
+    background-color: #e7f3f8;
+    height: '100% 100%';
+    padding: 20px;
+}
+.Daily {
+    margin: 15px;;
+}
+.apple {
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    width: 100%;
+    margin-right: 10px;
+}
+.images {
+     font-size:24px;
+     border-radius: 100%;
+     
+}
+.challengeDiv {
+    background-color: white;
+    border-radius: 5px;
+    padding: 50px;
+    width: 80%;
+    height:60vh;
+}
+.middleimgdiv {
+   
+    width: 35%;
+    height:60vh;
+}
+.middleimg{
+    height:100%;
+    width: 100%;
+}
+.challengeDivRight {
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    height:60vh;
+}
+.bottom {
+    width: 100%;
+    height: 300px;
+    margin-right: 10px; 
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgImg1 {
+    background-image: url('images/img1.JPG');
+}
+.bgImg2 {
+    background-image: url('images/img2.JPG');
+}
+.bgImg3 {
+    background-image: url('images/img3.JPG');
+}
+.bgImg4 {
+    background-image: url('images/img4.JPG');
+}
+.recommended-challenge-img {
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+.tblmenu {
+ width: 70%;
+}
+th, td {
+    padding: 5px;
+  }
+  .imgtd {
+      height: 35px;
+      width: 35px;
+  }
+  .button_add {
+      padding: 10px;
+      border-radius: 35px;
+      background-color: black;
+      color: white;
+      text-align: center;
+      margin-top: 20px;
+  }
+  .left_styles {
+      font-weight: bold;
+  }
+  .left_main_styles {
+      font-size: 15px;
+      color: #c8cfd1;
+
+  }
+  .early_morning {
+      color: #6470fb;
+  }
+  .vline {
+    content: "";
+    background-color: grey;
+    width: 5px;
+    height: 100px;
+  }
+  .challengeFriend {
+      margin-top: 30px;
+      margin-left: 80px;
+  }
+  .bg-container {
+      background-color: #d9eaf2;
+      padding: 50px;
+  }
+  .bg-row-container {
+      background-color: white;
+      border-radius: 15px;
+  }
+  .topDiv {
+      margin-left: 16%;
+      margin-bottom: 20px;
+      margin-top: 20px;
+     
+  }
+  .clssearch {
+    width: 25vw;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #f2f8f8;
+    border-width: 0;
+    outline-width: 0;
+  }
+  .top_div_img {
+      width: 25%;
+  }
+  .count {
+      font-weight: bold;
+      font-size: 30px;
+  }
+  .subHead {
+      font-weight: bold;
+  }
+  .colorLight {
+    color: #c8cfd1;
+  }
+  .fontBold {
+      font-weight: bold;
+  }
+  .linkColor {
+      color: #61bdc0;
+  }
+  .selectedActivity {
+      color: #bf6da2;
+  }
+  .plusButton {
+      columns: white;
+      padding: 15px;
+      border-width: 0;
+      border-radius: 100%;
+      height: 60px;
+      color: white;
+      font-size: 20px;
+      font-weight: bold;
+  }
+  .view_height {
+      height: 100vh;
+  }
+.recommendedChallengeText {
+    color: white;
+}
+
+  
